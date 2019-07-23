@@ -4,17 +4,15 @@
 
 lista = []
 i = 0
-while i < 2:
+for c in range(0, 3):
     valor = int(input('Digite um valor: '))
-    for i, v in enumerate(lista):
-        print(f'Posição: {i} \nNumero: {v}')
-        if i == 0:
-            lista.append(valor)
-        '''else:
-            if valor < numero:
-                lista.insert(posicao - 1, valor)
-            if valor > numero:
-                lista.insert(posicao + 1, valor)'''
-    i += 1
-    lista.append(valor)
+    #for i, v in enumerate(lista):
+    if c == 0:
+        lista.append(valor)
+    else:
+        if valor < v:
+            lista.insert(posicao - 1, valor)
+        if valor > v:
+            lista.insert(posicao + 1, valor)
+    print(f'Posição: {i} \nNumero: {v}')
 print(lista)

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3226d1f1-4d46-4af9-bcb4-4bdc50b3dda5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deletar.py" beforeDir="false" afterPath="$PROJECT_DIR$/deletar.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,9 +155,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.snake" />
+        <item itemvalue="Python.ex088" />
         <item itemvalue="Python.ex089" />
         <item itemvalue="Python.deletar" />
-        <item itemvalue="Python.ex088" />
         <item itemvalue="Python.ex087" />
       </list>
     </recent_temporary>
@@ -190,7 +189,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

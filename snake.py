@@ -1,4 +1,4 @@
-##### 10 - Game over ####
+# 10 - Game over #
 import pygame, random
 from pygame.locals import *
 
@@ -7,7 +7,7 @@ from pygame.locals import *
 def on_grid_random():
     x = random.randint(0, 59)
     y = random.randint(0, 59)
-    return (x * 10, y * 10)
+    return x * 10, y * 10
 
 
 def collision(c1, c2):

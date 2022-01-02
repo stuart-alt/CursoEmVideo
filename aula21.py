@@ -1,6 +1,7 @@
 help(input)
 print(input.__doc__)
 
+
 def contador(i, f, p):
     """
     -> Faz uma contagem e mostra na tela.
@@ -15,5 +16,6 @@ def contador(i, f, p):
         print(f'{c} ', end='')
         c += p
     print('FIM!')
+
 
 help(contador)

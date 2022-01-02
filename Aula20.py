@@ -6,12 +6,12 @@ def soma(a, b):
     s = a + b
     print(f'A soma de {a} + {b} = {s}')
 
-def contador(* num):
+
+def contador(*num):
     total = len(num)
     print(f'Foram passados os valores {num}.\nSão {total} digitos no total.')
 
 
 # Programa principal
 soma(b=4, a=5)
-
 contador(1, 3, 5, 2, 9)

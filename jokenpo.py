@@ -11,7 +11,7 @@ cores = {'branco'   : '\033[0;30m',
          'lilas'    : '\033[0;35m',
          'azulclaro': '\033[0;36m',
          'cinza'    : '\033[0;37m',
-         'limpa'    : '\033[m' }
+         'limpa'    : '\033[m'}
 
 
 print('''========= JOKENPO =========')
@@ -31,17 +31,17 @@ print('O computador jogou: {}{}{}'.format(cores['verde'], objetos[opcomp], cores
 print('<=------------------=>')
 if opuser == opcomp:
     print(cores['vermelho'], 'Empatou!', cores['limpa'])
-elif opuser == 0 and opcomp == 1:  #tesoura e pedra
+elif opuser == 0 and opcomp == 1:  # tesoura e pedra
     print(cores['vermelho'], 'O computador ganhou!!!', cores['limpa'])
-elif opuser == 0 and opcomp == 2:  #tesoura e papel
+elif opuser == 0 and opcomp == 2:  # tesoura e papel
     print(cores['vermelho'], 'Voce ganhou!', cores['limpa'])
-elif opuser == 1 and opcomp == 0:  #pedra e tesoura
+elif opuser == 1 and opcomp == 0:  # pedra e tesoura
     print(cores['vermelho'], 'Voce ganhou!', cores['limpa'])
-elif opuser == 1 and opcomp == 2:  #pedra e papel
+elif opuser == 1 and opcomp == 2:  # pedra e papel
     print(cores['vermelho'], 'O computador ganhou!', cores['limpa'])
-elif opuser == 2 and opcomp == 0:  #papel e tesoura
+elif opuser == 2 and opcomp == 0:  # papel e tesoura
     print(cores['vermelho'], 'O computador ganhou!', cores['limpa'])
-elif opuser == 2 and opcomp == 1:  #papel e pedra
+elif opuser == 2 and opcomp == 1:  # papel e pedra
     print(cores['vermelho'], 'Voce ganhou!', cores['limpa'])
 
 

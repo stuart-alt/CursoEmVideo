@@ -1,6 +1,6 @@
 pessoas = {'nome': 'Rodrigo', 'idade': 33, 'sexo': 'M', 'peso': 61.5}
-pessoas['nome'] = 'Stuart'
-pessoas['estadocivil'] = 'Solteiro'
+pessoas['nome'] = 'Stuart'  # Mostra que é possível subistituir um valor do dicionário
+pessoas['estadocivil'] = 'Solteiro'  # Adiciona uma nova chave no dicionário
 
 print(f'Keys: {pessoas.keys()}')
 print(f'Values: {pessoas.values()}')

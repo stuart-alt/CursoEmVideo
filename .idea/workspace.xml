@@ -3,7 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="3226d1f1-4d46-4af9-bcb4-4bdc50b3dda5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/megasena.py" beforeDir="false" afterPath="$PROJECT_DIR$/megasena.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anotacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Anotacoes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo1/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo1/ex002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrientacaoObjetos.py" beforeDir="false" afterPath="$PROJECT_DIR$/OrientacaoObjetos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAndWriteFiles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula16.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula21.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jokenpo.py" beforeDir="false" afterPath="$PROJECT_DIR$/jokenpo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nomes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nomes_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,28 +59,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.megasena">
-    <configuration name="OrientacaoObjetos" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CursoEmVideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OrientacaoObjetos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.interface">
     <configuration name="ex114" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex120" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="interface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +114,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex115/ex115.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jokenpo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jokenpo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.interface" />
+        <item itemvalue="Python.jokenpo" />
         <item itemvalue="Python.megasena" />
         <item itemvalue="Python.ex114" />
         <item itemvalue="Python.ex115" />
-        <item itemvalue="Python.ex120" />
-        <item itemvalue="Python.OrientacaoObjetos" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +187,14 @@
       <option name="presentableId" value="Default" />
       <updated>1561679916729</updated>
     </task>
+    <task id="LOCAL-00001" summary="Melhorando a megasena">
+      <created>1641132277813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641132277813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -200,6 +220,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionando primeira linha" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando primeira linha" />
+    <MESSAGE value="Melhorando a megasena" />
+    <option name="LAST_COMMIT_MESSAGE" value="Melhorando a megasena" />
   </component>
 </project>

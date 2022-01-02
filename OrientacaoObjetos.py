@@ -13,10 +13,9 @@ class Garrafa:
         self.cor = cor
         self.peso = peso
 
-aluno1 = Aluno('Rodrigo', 'Ramos', 'Rua Dr. Thouzet 600', 8.88, 'Aprovado')
 
+aluno1 = Aluno('Rodrigo', 'Stuart', 'Rua Das Internets', 8.88, 'Aprovado')
 garrafa1 = Garrafa(25, 'amarelo', 250)
 
 print(aluno1.nome)
-
 print(garrafa1.cor)
